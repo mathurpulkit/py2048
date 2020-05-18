@@ -22,6 +22,6 @@
     <img src="ssl3.png" width="640" height="360" alt="Screenshot">
     <img src="ssl4.png" width="640" height="360" alt="Screenshot">
     <h3>Known Issues:</h3>
+<p>1. Sometimes the keypresses might be displayed when using Ubuntu Terminal.</p>
+<p>2. The keypresses displayed in Ubuntu might also get printed in between the gameboard.</p>
 </HTML>
-1. Sometimes the keypresses might be displayed when using Ubuntu Terminal.
-2. The keypresses displayed in Ubuntu might also get printed in between the gameboard.
