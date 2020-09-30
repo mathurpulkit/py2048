@@ -1,3 +1,4 @@
+2048 game code
 <HTML>
     <p>This is the Python Terminal implementation of the popular game 2048.</p>
     <p>It gets the size of board and winning number from the user as a command line argument. </p>
